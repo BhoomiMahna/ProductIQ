@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-2.svg" alt="ReviewIQ Logo" width="80" height="80">
-  
+
   # ProductIQ
   **AI-Powered E-Commerce Review Intelligence Platform**
   
