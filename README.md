@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-2.svg" alt="ReviewIQ Logo" width="80" height="80">
   
-  # ReviewIQ
+  # ProductIQ
   **AI-Powered E-Commerce Review Intelligence Platform**
   
-  ReviewIQ is a production-grade SaaS application designed to help both customers and businesses instantly analyze thousands of product reviews. Instead of scrolling through hundreds of comments manually, ReviewIQ uses cutting-edge NLP to summarize sentiments, extract key pros and cons, cluster common complaints, and power a state-of-the-art **Retrieval-Augmented Generation (RAG) Chatbot** to let you chat directly with the data.
+  ProductIQ is a production-grade SaaS application designed to help both customers and businesses instantly analyze thousands of product reviews. Instead of scrolling through hundreds of comments manually, ProductIQ uses cutting-edge NLP to summarize sentiments, extract key pros and cons, cluster common complaints, and power a state-of-the-art **Retrieval-Augmented Generation (RAG) Chatbot** to let you chat directly with the data.
 
   [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -16,13 +16,12 @@
 
 ## 🎥 Demo
 
-<div align="center">
-  <video src="./demovdo.mp4" controls width="100%"></video>
-  <br />
-  <i>Watch ReviewIQ instantly analyze and compare product reviews.</i>
-</div>
+🎥 **Demo Video:** https://youtu.be/rKsaeA0NfXQ
+
+Watch ProductIQ instantly analyze and compare product reviews using AI-powered sentiment analysis, review summarization, complaint clustering, and RAG-based question answering.
 
 ---
+
 
 ## ✨ Features
 
@@ -37,7 +36,7 @@
 
 ## 🏗️ Architecture
 
-ReviewIQ uses a decoupled architecture. The frontend handles state and visualizations using React & Recharts, while the FastAPI backend acts as an orchestrator for the local Machine Learning pipeline.
+ProductIQ uses a decoupled architecture. The frontend handles state and visualizations using React & Recharts, while the FastAPI backend acts as an orchestrator for the local Machine Learning pipeline.
 
 ```mermaid
 graph TD
